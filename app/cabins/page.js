@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import Spinner from "../_components/Spinner";
 
 export const metadata = {
-  title: "The Wild Oasis | Cabins",
+  title: "The Luxury Resorts  | Cabins",
 };
 
 export default function Page() {

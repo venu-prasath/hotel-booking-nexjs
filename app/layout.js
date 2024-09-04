@@ -6,7 +6,7 @@ import { Josefin_Sans } from "next/font/google";
 import Header from "./_components/Header";
 
 export const metadata = {
-  title: "The Wild Oasis",
+  title: "The Luxury Resorts",
   description: "Luxurious cabin hotel, located in the heart of Italy",
 };
 

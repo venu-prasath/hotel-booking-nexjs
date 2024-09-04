@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "The Wild Oasis | Account",
+  title: "The Luxury Resorts | Account",
 };
 
 export default function Page() {
