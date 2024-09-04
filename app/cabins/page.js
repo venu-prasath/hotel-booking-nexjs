@@ -7,7 +7,7 @@ export const metadata = {
   title: "The Wild Oasis | Cabins",
 };
 
-export default async function Page() {
+export default function Page() {
   // CHANGE
 
   return (
